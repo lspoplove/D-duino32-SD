@@ -12,3 +12,6 @@ RGB LED library: https://github.com/adafruit/Adafruit_NeoPixel
 4. Select ESP32 Dev Module as Board
 
 5. Connect your board, select the correct COM port and click upload
+
+
+Packet Monitor: https://github.com/spacehuhn/PacketMonitor32
