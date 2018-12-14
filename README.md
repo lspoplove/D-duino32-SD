@@ -7,3 +7,4 @@ Here I will put some text codes for D-duino32-SD
 4. Select ESP32 Dev Module as Board<br>
 5. Connect your board, select the correct COM port and click upload<br>
 Packet Monitor: https://github.com/spacehuhn/PacketMonitor32<br>
+![](https://github.com/lspoplove/D-duino/blob/master/Documents/d-duino32.jpg)
