@@ -7,8 +7,9 @@ https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/windows.
 2.Install RGB library into arduino libraries folder:
 RGB LED library: https://github.com/adafruit/Adafruit_NeoPixel
 
-3.Board Option: ESP32 Dev Module
-  Upload Speed: 921600
-  Flash size:4MB(32MB)
-  Flash Mode:DIO
-  Flash Frequency:80MHz
+3.Install this ESP8266/ESP32 OLED library: 
+https://github.com/squix78/esp8266-oled-ssd1306
+
+4. Select ESP32 Dev Module as Board
+
+5. Connect your board, select the correct COM port and click upload
