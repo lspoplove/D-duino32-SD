@@ -1,6 +1,6 @@
 # D-duino32-SD
-Here I will put some text codes for D-duino32-SD
-This file is test button and RGB LED.
+Here I will put some text codes for D-duino32-SD.<br>
+This code is testing button and RGB LED.
 
 1.Install arduino core for ESP32: https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/windows.md <br>
 2.Install RGB library: https://github.com/adafruit/Adafruit_NeoPixel<br>
